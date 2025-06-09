@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Enes 👋</h1>
 
-<!--
-**enesberkyetim/enesberkyetim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 3rd-year Computer Engineering student
+- 🛡️ Red team & penetration testing enthusiast
+- ⚙️ Also love low-level C/Assembly 
+- 🎸 Metalhead (Megadeth as always)
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a third‑year Computer Engineering student with a strong drive toward cyber‑security, red teaming, and offensive tooling. My low‑level background (C, C++, x86 assembly) lets me reason about software at the machine‑code layer, while high‑level scripting (Python, Bash) powers my automation and data‑analysis side projects. I share most of my academic and personal work right here on GitHub.
+
+## Platforms
+
+<p align="center">
+  <a href="https://tryhackme.com/p/karmagedon" target="_blank">
+    <img src="[https://tryhackme-badges.s3.amazonaws.com/karmagedon.png](https://tryhackme.com/p/karmagedon)"
+         alt="TryHackMe" height="90">
+  </a>
+</p>
