@@ -13,7 +13,6 @@ I’m a third‑year Computer Engineering student with a strong drive toward cyb
 
 <p align="center">
   <a href="https://tryhackme.com/p/karmagedon" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/karmagedon.png"
-         alt="TryHackMe" height="90">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/karmagedon.png" alt="TryHackMe" />
   </a>
 </p>
