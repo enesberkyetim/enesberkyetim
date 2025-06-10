@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a third‑year Computer Engineering student with a strong drive toward cyber‑security, red teaming, and offensive tooling. My low‑level background (C, C++, x86 assembly) lets me reason about software at the machine‑code layer, while high‑level scripting (Python, Bash) powers my automation and data‑analysis side projects. I share most of my academic and personal work right here on GitHub.
+I’m a third‑year Computer Engineering student at Marmara University with a strong drive toward cyber‑security (especially penetration testing, red teaming, and offensive tooling). I've a strong low‑level programming background (C and x86 assembly) which I find very useful while understanding, using or generating exploits and vulnerabilities. Also, I can do automation with high‑level scripting (done many in Python using Selenium and also in Linux Bash). In addition, I educate myself on core cybersecurity areas such as computer networks and operating systems which I love learning about and creatively trying to bypass. I share most of my academic and personal work right here on GitHub.
 
 ## Platforms
 
