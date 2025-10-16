@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Enes </h1>
 
-- 💻 3rd-year Computer Engineering student
-- 🛡️ Red team & penetration testing enthusiast
-- ⚙️ Also love low-level C/Assembly 
-- 🎸 Metalhead (Megadeth as always)
+- 4th year Computer Engineering student
+- Web application security & penetration testing enthusiast
 
 ## 🧑‍💻 About Me
 
