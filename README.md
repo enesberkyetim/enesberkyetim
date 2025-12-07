@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Enes </h1>
 
 - 4th year Computer Engineering student
-- Web application security & penetration testing enthusiast
+- Penetration testing & red teaming enthusiast
 
 ## 🧑‍💻 About Me
 
